@@ -4,25 +4,6 @@
 
 <p align="center">My name is Louis and I'm a Student Front Developer, from France. 🤙</p>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/louis-poulin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="Louis#4007" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/_louais/?hl=fr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://dribbble.com/_Louis" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="70" height="40" alt="dribbble logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">I can speak 🔻</h2>
 
 ###
