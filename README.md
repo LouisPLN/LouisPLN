@@ -1,10 +1,10 @@
-<h1 align="center">Welcome here ! 🚀</h1>
+<h1 align="center">Bienvenu ! 🚀</h1>
 
 ###
 
-<p align="center">My name is Louis and I'm a Student Front Developer, from France. 🤙</p>
+<p align="center">Je m'appelle Louis et je suis développeur frontend en React & Next. 🤙</p>
 
-<h2 align="left">I can speak 🔻</h2>
+<h2 align="left">Je maîtrise 🔻</h2>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">My daily life🔻</h2>
+<h2 align="left">J'utilise🔻</h2>
 
 ###
 
