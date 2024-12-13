@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenu ! 🚀</h1>
+<h1 align="center">Bienvenue ! 🚀</h1>
 
 ###
 
